@@ -1,0 +1,10 @@
+User-agent: Bytespider
+Disallow: /
+ 
+User-agent: *
+Disallow: *?culture*
+Disallow: *?Culture*
+Disallow: *?idIdioma*
+ 
+#Sitemap
+Sitemap: https://cdn.barrabes.com/sitemap/sitemap_b_index.xml
